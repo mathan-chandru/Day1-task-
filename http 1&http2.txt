@@ -1,0 +1,27 @@
+                           >>>>>>  http   <<<<<<<
+
+* http is  a full  form of hypertext transfer protocol..That definition can be explained their function.
+
+*Their function is transfer the data browser to server in the set off rules .
+
+*https://www.guvi.in/ide/?id=650f26c2401af  that numbers only recovers the data from the server 
+
+* that one link should bee connect one server. here one should bee edit they did not retrive data...
+
+                  > > >http1.1 vs http2  < < < 
+
+* http2 allows developers to customise the prioritization . 
+
+* http 2 having the number of performance and improvements over http 1
+
+* http1.1 load resources in one by one but http2 load resource in multiple data in single time via TCP,here TCP stands for transfer controll protocol
+
+* Header compression Small files load more quickly than large ones. To speed up web performance, both HTTP/1.1 and HTTP/2 compress HTTP messages to make them smaller.
+
+*http2 having the advanced compression method called HPACK that eliminats  redundant information in http header packets .
+
+*They eliminates a few bytes from every http packets.here the volume of HTTP pockets involved i loading even a single webpage 
+
+*basically when comparing http1 and  http2..https 2 is much faster than http1..   
+          
+                                  * * *

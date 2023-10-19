@@ -1,0 +1,26 @@
+  Objects in java script---->
+     
+ *Objects having the combination of data
+
+ *Object can be declared as { } 
+ 
+ *Javascript objects inside to print the method and propertis
+
+ * Exsample:
+   let item={
+     num:9952101667,
+     Name:'surya',
+     gender: 'male',
+ }
+  console.log(item);
+O/p: { num: 9952101667, Name: 'surya', gender: 'male' }
+
+*In that objeect Spaces and line breaks are not important.
+
+*objects  statements are can be replaceable through<< returnable>> .method 
+
+* That is the javascript object method...
+
+                                 * * * * * *          
+
+
